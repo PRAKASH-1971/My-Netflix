@@ -36,4 +36,3 @@ function Row({ title, fetchUrl, isLargeRow }) {
 }
 
 export default Row;
-hi
