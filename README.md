@@ -28,9 +28,7 @@ Some snippets of my website-
 
 <br/>
 <h3>**When you Click on Movie the Trailer was played**</h3>
-<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172992850-44b639fa-fc85-43fb-89d7-d18c26a14e44.png)
-<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172992893-f0b6c887-28d4-4004-a161-e7f52c843781.png)
 
 <hr/>
