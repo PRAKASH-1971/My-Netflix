@@ -17,21 +17,28 @@ I have used -
 
 Some snippets of my website-
 
-**Landing Page**
+<h3>**Landing Page**</h3>
 
 Some snippets of my website-
 ![image](https://user-images.githubusercontent.com/84118928/172614456-ce575af6-3b94-4979-881b-c9c5981905e4.png)
-
+<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172614370-bfe01a62-df08-4dc4-af39-7bcee4c9bb77.png)
-
+<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172614343-c53a0dca-e0bd-4444-9a12-c0f1bfdf9cf8.png)
 
-
-**Whwn you Click on Movie the Trailer was played**
+<br/>
+<h3>**When you Click on Movie the Trailer was played**</h3>
+<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172992850-44b639fa-fc85-43fb-89d7-d18c26a14e44.png)
+<br/>
 ![image](https://user-images.githubusercontent.com/84118928/172992893-f0b6c887-28d4-4004-a161-e7f52c843781.png)
 
 <hr/>
 
+<h4>HOW I build :</h4>
 
+I have Build this website by using BOOtstrap and CSS for design, 
+and React for making all functionalities work and mainly i have worked more on apis.
+
+<h2>Thanks and we welcome you for your queries and suggestions</h2>
 
