@@ -15,6 +15,13 @@ I have used -
   <li>REACT - BOOTSTRAP</li>
 </ul>
 
+*deploy link**
+
+[project Deploy link of netify]()
+
+
+[Project Deploy Link](https://creative-duckanoo-5d4807.netlify.app/)
+
 Some snippets of my website-
 
 <h3>**Landing Page**</h3>
