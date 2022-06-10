@@ -1,5 +1,4 @@
-#NETFLIX,
-
+<h2>NETFLIX</h2>
 
 Hi, 
  
@@ -33,5 +32,6 @@ Some snippets of my website-
 ![image](https://user-images.githubusercontent.com/84118928/172992893-f0b6c887-28d4-4004-a161-e7f52c843781.png)
 
 <hr/>
+
 
 
