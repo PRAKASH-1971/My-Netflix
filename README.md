@@ -4,7 +4,12 @@ Hi,
  
 When you open your browser , you can see the clone of NETFLIX website with exact same features.
 
-Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies without commercials on an internet-connected device. You can also download TV shows and movies to your iOS, Android, or Windows 10 device and watch without an internet connection.
+## About this project: 🙌
+
+> Netflix is a subscription-based streaming service that allows our members to watch TV shows and movies without commercials on an internet-connected device. You can also download TV shows and movies to your iOS, Android, or Windows 10 device and watch without an internet connection.
+----
+
+
 
 Moving ahead lets talk about what skills i required to build the website like this,
 I have used -
